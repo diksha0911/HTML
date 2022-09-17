@@ -1,27 +1,9 @@
-body {
-background-color:powderblue;
+label {
+    display: inline-block;
+    width: 120px;
 }
 
-h1
-{
-color:blue;
- font-family: verdana;
- font-size: 200%;
-}
-
-h3 {
-    border: 1px solid rgb(4, 50, 56);
-    padding: 30px;
-     margin: 50px;
-     text-align: center;
-}
-
-#p11
-{
-color: red;
-}
-
-p.test {
-color:brown;
-text-align: center;
+form {
+    border: 2px solid black;
+    padding: 20px;
 }
