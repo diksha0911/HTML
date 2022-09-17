@@ -6,4 +6,18 @@ label {
 form {
     border: 2px solid black;
     padding: 20px;
+    align-content: center;
+    margin-right: 80px;
 }
+ 
+img {
+    width:8%;
+    height: 12%;
+    padding: 10px;
+    margin-bottom: -60px;
+}
+h1{
+    margin-top: 0px;
+}
+
+
